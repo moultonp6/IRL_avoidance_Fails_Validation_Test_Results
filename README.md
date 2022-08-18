@@ -13,5 +13,7 @@ Link to the authors github repository: https://github.com/epfl-lasa/IRL_DS_obsta
 This repository has been provided to the readers to test that their algorithm indeed fails to learn the reward given a set of trajectories and associated weights. One can run this repository to check it themselves.
 
 Coming soon...
+
+
   -- We will provide instructions on how to use this repository if needed to check that the author's algorithm fails
   -- There has been minimal changes in the code, as the author's original repository does not even run on many machines. But there has been no change to their core algorithm
